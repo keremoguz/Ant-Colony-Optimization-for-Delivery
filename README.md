@@ -8,6 +8,6 @@ Each line except first one contains x and y coordinates of the house location. T
 Format : xcord, ycord
 
 ## Programming Language
-Java is used as programming language
+Java is used as the programming language
 
 ### Note: For the extra information please check the report
